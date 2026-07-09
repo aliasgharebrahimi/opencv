@@ -11,9 +11,9 @@ We start with a main file to familiarize ourselves with the library's functions,
 No projects have been uploaded yet; projects will be added in the coming days.
 
 ## Prerequisites
-python 3
-opencv
-A color photo!
+-python 3
+-opencv
+-A color photo!
 ## 🛠 Requirements
 The following libraries are required to run the code:
 ```bash
