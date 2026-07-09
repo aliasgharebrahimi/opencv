@@ -18,4 +18,4 @@ while True:
         break
 
 cap.release()
-cv2.destroyWindow()
+cv2.destroyAllWindows()
