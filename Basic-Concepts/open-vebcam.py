@@ -1,8 +1,8 @@
 #Import 
 import cv2
 
-phone_ip = "http://192.168.234.71:8080/video"
-cap = cv2.VideoCapture(phone_ip)
+phone_ip = "your ip"
+cap = cv2.VideoCapture(0)
 
 while True:
 
