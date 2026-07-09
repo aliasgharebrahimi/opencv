@@ -11,9 +11,9 @@ First, we familiarize ourselves with the library's fundamentals in the "Basic Co
 No projects have been uploaded yet; projects will be added in the coming days.
 
 ## Prerequisites
--python 3
--opencv
--A color photo!
+1. پایتون ۳
+2. اوپن‌سی‌وی
+3. یک عکس رنگی
 
 ## 🛠 Requirements
 The following libraries are required to run the code:
