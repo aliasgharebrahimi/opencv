@@ -5,7 +5,7 @@ A collection of tutorials and practical projects using the OpenCV library to bet
 This repository was created to combine foundational tutorials with the implementation of practical projects. My goal with this project is to master image processing tools and learn how to apply them in real-world scenarios.
 
 ## 📂 Repository Structure
-We start with a main file to familiarize ourselves with the library's functions, and then, in subsequent files, we build real-world projects using those same functions.
+First, we familiarize ourselves with the library's fundamentals in the "Basic Concepts" folder, then build a few small projects; larger projects will be developed in separate repositories.
 
 ## 🚀 Implemented Projects
 No projects have been uploaded yet; projects will be added in the coming days.
