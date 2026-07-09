@@ -14,6 +14,7 @@ No projects have been uploaded yet; projects will be added in the coming days.
 -python 3
 -opencv
 -A color photo!
+
 ## 🛠 Requirements
 The following libraries are required to run the code:
 ```bash
